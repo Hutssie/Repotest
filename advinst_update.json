@@ -1,0 +1,6 @@
+{
+  "Flags": "Sys64|Os64|NoCache|IsPatch|NoRedetect",
+  "ServerFileName": "patch.msp",
+  "RegistryKey": "HKLM\\Software\\Your Company\\Your Application\\Version",
+  "Version": "1.0.1"
+}
